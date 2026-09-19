@@ -1,0 +1,14 @@
+# VEX V5 build artifacts
+**/build/
+*.o
+*.bin
+*.elf
+*.map
+
+# IDEs / editors
+.vscode/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
