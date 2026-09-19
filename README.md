@@ -8,11 +8,11 @@ This repository collects the programs I wrote across several seasons and teams. 
 
 | Folder | Team | Season | Notes |
 | --- | --- | --- | --- |
-| `1064G-PushBack` | 1064G | 2025–2026 | Current competition program (Push Back) |
+| `1064G-PushBack` | 1064G | 2025–2026 | Main competition program (Push Back), used until March 2026 |
+| `1064-Worlds` | 1064G | 2025–2026 | Final version — the end-state of `1064G-PushBack` |
+| `1064-Create` | 1064G | 2025–2026 | New-robot variant of `1064G-PushBack` for the CREATE Foundation ruleset |
+| `1064A-Code` | 1064A | 2025–2026 | Basic starter code written to help another team |
 | `1064B-PushBack` | 1064B | 2025–2026 | Push Back variant |
-| `1064-Create` | — | — | *to be described* |
-| `1064-Worlds` | — | — | *to be described* |
-| `1064A-Code` | 1064A | — | *to be described* |
 | `1064X-High` | 1064X | 2023–2025 | Older code; known errors, historical value |
 
 ## Layout
