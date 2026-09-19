@@ -26,6 +26,10 @@ Each project folder is a standard VEXcode Pro V5 template:
 
 Open any project folder in **VEXcode Pro (V5)** and build. Build artifacts are written to each project's `build/` folder, which is excluded from version control via `.gitignore`.
 
+## License
+
+[MIT](LICENSE) © 2026 David T Arredondo
+
 ## Status
 
 Revamped from the original backup repository: removed committed build artifacts, added `.gitignore` and this README, and re-published under a fresh history on a new account.
