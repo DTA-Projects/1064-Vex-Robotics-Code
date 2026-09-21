@@ -28,7 +28,7 @@ Open any project folder in **VEXcode Pro (V5)** and build. Build artifacts are w
 
 ## License
 
-[MIT](LICENSE) © 2026 David T Arredondo
+[MIT](LICENSE) © 2026 David Thomas Arredondo
 
 ## Status
 
